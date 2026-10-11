@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aioppspp",
+  "versions": [
+    {
+      "commit": "08cda4c4b14d96771b7f485a8866fd2ddb5c97b6",
+      "tag": "",
+      "parsed_at": "2026-10-11T08:56:33.160444+00:00"
+    }
+  ]
+}
